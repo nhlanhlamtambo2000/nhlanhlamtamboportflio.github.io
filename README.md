@@ -14,7 +14,7 @@ The repository name makes this a project site, not the account-root site. Relati
 
 ## Factual source
 
-Content is based on `Nhlanhla_Mtambo_Modern_CV.docx`. The original CV is available for download under `assets/Nhlanhla-Mtambo-CV.docx`. Only the city and province are displayed; the phone number is deliberately omitted.
+Portfolio content was originally based on `Nhlanhla_Mtambo_Modern_CV.docx`. The current CV is available for download as a PDF under `assets/Nhlanhla_Mtambo_CV.pdf`. Only the city and province are displayed; the phone number is deliberately omitted from the webpage.
 
 The interests in playing rugby and gaming were supplied directly by Nhlanhla and are represented with Bootstrap Icons.
 
